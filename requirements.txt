@@ -1,0 +1,4 @@
+langflow>=1.0.0
+langchain-community
+faiss-cpu
+ibm-watsonx-ai
